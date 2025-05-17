@@ -1,0 +1,1 @@
+export const columns = [{"title":"请假人","dataIndex":"addusername","key":"addusername","align":"center"},{"title":"审核","dataIndex":"shenhe","key":"shenhe","align":"center"},{"title":"请假时间","dataIndex":"leavetime","key":"leavetime","align":"center"}]

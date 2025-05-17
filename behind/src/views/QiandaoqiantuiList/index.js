@@ -1,0 +1,1 @@
+export const columns = [{"title":"员工姓名","dataIndex":"username","key":"username","align":"center"},{"title":"签到/签退","dataIndex":"status","key":"status","align":"center"},{"title":"签到时间","dataIndex":"qiandaotime","key":"qiandaotime","align":"center"},{"width":200,"title":"操作","fixed":"right","dataIndex":"opera","align":"center"}]

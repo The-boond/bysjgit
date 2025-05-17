@@ -1,0 +1,1 @@
+export const columns = [{"title":"报销人","dataIndex":"addusername","key":"addusername","align":"center"},{"title":"审核","dataIndex":"shenhe","key":"shenhe","align":"center"}]
