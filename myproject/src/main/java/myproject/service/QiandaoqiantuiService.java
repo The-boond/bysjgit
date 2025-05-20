@@ -29,7 +29,7 @@ public interface QiandaoqiantuiService extends BaseService<QiandaoqiantuiEntity>
     void export(QiandaoqiantuiQuery query);
 
     void importqiandaoqiantui(File importFile);
-
+                
     List<Map<String, Object>> selectValue(Map<String, Object> params, LambdaQueryWrapper<QiandaoqiantuiEntity> wrapper);
 
     List<Map<String, Object>> selectTimeStatValue(Map<String, Object> params, LambdaQueryWrapper<QiandaoqiantuiEntity> wrapper);

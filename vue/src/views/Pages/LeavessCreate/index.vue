@@ -23,7 +23,7 @@
         </a-col>
 
         <a-col :span="24">
-          <a-form-item label="证明" name="photo">
+          <a-form-item label="封面" name="photo">
             <a-upload
               v-model:file-list="formData.photo"
               name="file"
